@@ -28,18 +28,10 @@ A web-based real-time edge detection application built with **TypeScript**, **Op
 
 ### Main Interface<img width="1907" height="987" alt="Screenshot 2025-11-14 145425" src="https://github.com/user-attachments/assets/94f4bdec-9961-4eda-9c8e-6b26959ad38c" />
 
+<img width="1879" height="971" alt="Screenshot 2025-11-14 145433" src="https://github.com/user-attachments/assets/65cc9059-0853-4a6d-9ffc-f975f69324f7" />
 
-*Side-by-side view: Original camera feed (left) and Edge Detection output (right)*
+<img width="1907" height="987" alt="Screenshot 2025-11-14 145425" src="https://github.com/user-attachments/assets/9e327d83-3a2d-4960-8b28-49688ee18e33" />
 
-### Edge Detection in Action
-![main screen](/edge-detection-viewer/public/photo2.png)
-*Real-time Canny edge detection with performance stats*
-
-<!-- ### Raw Feed Mode
-![Raw Feed](screenshots/raw-feed.png)
-*Toggle between processed and raw camera feed* -->
-
----
 
 ## 🏗️ Architecture Overview
 
