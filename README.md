@@ -26,9 +26,9 @@ A web-based real-time edge detection application built with **TypeScript**, **Op
 
 ## 📷 Screenshots
 
-### Main Interface
-![Main Interface](/edge-detection-viewer/public/photo.png)
-()
+### Main Interface<img width="1907" height="987" alt="Screenshot 2025-11-14 145425" src="https://github.com/user-attachments/assets/94f4bdec-9961-4eda-9c8e-6b26959ad38c" />
+
+
 *Side-by-side view: Original camera feed (left) and Edge Detection output (right)*
 
 ### Edge Detection in Action
